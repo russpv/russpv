@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russpv
-- 👀 I’m interested in learning how to create linear regression models.
-- 🌱 I’m currently learning R.
+- 👀 I’m interested in NLP and sensible null handling in linear regression models
+- 🌱 I’m currently learning PyTorch.
 - 💞️ I’m looking to collaborate on data workbenching tools.
 
 <!---
