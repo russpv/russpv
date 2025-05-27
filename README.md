@@ -1,5 +1,5 @@
 - Hey, I’m @russpv
-- I’m interested in memory optimization.
+- I’m interested in low level fundamentals.
 - I’m currently learning C.
 
 <!---
