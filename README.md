@@ -1,6 +1,6 @@
 - Hey, I’m @russpv
 - I’m interested in low level fundamentals.
-- I’m currently learning C.
+- I’m currently okay at C, and learning C++ and Haskell.
 
 <!---
 russpv/russpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
