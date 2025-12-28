@@ -1,5 +1,4 @@
 - Hey, I’m @russpv
-- I’m interested in low level fundamentals.
 - I’m currently okay at C, and learning C++ and Haskell.
 
 <!---
