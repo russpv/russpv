@@ -1,5 +1,5 @@
 - Hey, I’m @russpv
-- I’m currently okay at C, and learning C++ and Haskell.
+- I’m currently okay at C, C++ and learning Haskell.
 
 <!---
 russpv/russpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
